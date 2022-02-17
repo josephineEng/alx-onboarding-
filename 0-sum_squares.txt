@@ -1,7 +1,0 @@
-Declare variables N, K, and sum as integers;
-Read number;
-For k up to N increase k by 1 and K=1
-{
-sum=sum+(k*k);
-}
-Print sum;
