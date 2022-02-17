@@ -1,0 +1,16 @@
+A PSEUDOCODE FOR SORTING 3 NUMBERS
+Declare variables a, b and c;
+If a<b 
+	If a<c
+		If b<c
+			Display ascending order
+		Else
+			b=c and c=b
+			display ascending order
+	Else 
+		a=c and c=b
+Else
+	a=b and b=a
+
+	
+

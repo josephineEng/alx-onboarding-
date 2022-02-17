@@ -1,0 +1,9 @@
+A PSEUDOCODE TO CALCULATE THE SUM OF NUMBERS TILL A NEGATIVE IS INPUT.
+ Declare variable N and sum
+Initialize sum =0
+While true
+	Read N		
+	If N =-N
+		Sum=sum
+	Else
+		Sum=sum + N
